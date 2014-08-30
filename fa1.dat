@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------------------------------------------
+Activity 1: Answer the following questions with respect to the function definition
+ given in the block.
+
+
+float average(int  list[], int n)
+
+ {
+    ………
+
+ }
+
+1.What is the type of the function?
+2.Is the name of the function syntactically correct?
+3.What are the inputs to the function?
+4.What is the data type of output of the function?
+
